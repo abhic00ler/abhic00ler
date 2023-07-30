@@ -1,6 +1,6 @@
 - Hi there 👋, I am Abhishek Gaikwad,a final year undergrad, pursuing B.Tech in Computer Engineering at College of Engineering, Pune(COEP).
 - 👀 I’m interested in Computer Networks, Web Development(MERN stack)
-- 🌱 I’m currently learning Computer Engineering
+- 🌱 I’m currently learning data science.
 - 💞️ I’m interested in contributing in fields like web development, database management and data structures
 - 📫 Reach me out on [Linkedin](https://www.linkedin.com/in/abhishek-gaikwad-72a44b197)
 
